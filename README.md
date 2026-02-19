@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Murilo.
 
-<!--
-**Murilo-AR-Ferreira/Murilo-AR-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação (2º ano)  
+📊 Focado em Análise de Dados  
+🐍 Python | Pandas | Git  
+📈 Explorando dados para gerar insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Atualmente estudando
+- Manipulação e limpeza de dados
+- Análise exploratória (EDA)
+- Estrutura de dados
+- Versionamento com Git
+
+---
+
+## 📂 Projetos em destaque
+Em construção 🚧  
+(Os primeiros projetos de análise serão publicados em breve)
+
+---
+
+## 🎯 Objetivo
+Construir uma base sólida em análise de dados e evoluir para atuar como Analista/Cientista de Dados.
