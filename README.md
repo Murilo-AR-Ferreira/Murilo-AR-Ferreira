@@ -16,8 +16,8 @@
 ---
 
 ## 📂 Projetos em destaque
-Em construção 🚧  
-(Os primeiros projetos de análise serão publicados em breve)
+[Churn Analysis - Cancelamento de Clientes](https://github.com/Murilo-AR-Ferreira/churn-analysis-python)
+  Análise exploratória de dados para identificar fatores que influenciam o cancelamento de clientes.
 
 ---
 
